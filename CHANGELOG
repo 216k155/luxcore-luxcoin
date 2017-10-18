@@ -1,0 +1,29 @@
+# Version 2.2.0
+===============
++Upgraded QT wallet UI
++Added PoS automate function
++Added client control function
++Fixed Sync error
++Fixed seednode
++Fixed network protocol
++Fixed some typo
+
+# Version 2.1.0
+===============
++Fixed Typo
++Added new checkpoint
++Added Block brownser.cpp & blockbrownser.h
++Update QT wallet UI
++Added Block Explorer UI
+
+# Version 2.0.0
+==============
++Reduced outbounce connection to 12
++Add more seednodes
++Inscreased faster peers
++Fixed qt version missmatch
+
+
+
+
+
